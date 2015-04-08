@@ -1,0 +1,7 @@
+/.idea
+/*.iml
+/target
+/*/target
+/*/*.iml
+/common/src/main/resources/com/arkmrtech/common
+*.properties
